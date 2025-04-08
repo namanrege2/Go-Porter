@@ -1,1 +1,0 @@
-ALL the REACT FRONTEND
